@@ -12,3 +12,4 @@ D:\Todo sobre la programación\C#\Mis proyectos\1\obj\Debug\net8.0\refint\1.dll
 D:\Todo sobre la programación\C#\Mis proyectos\1\obj\Debug\net8.0\1.pdb
 D:\Todo sobre la programación\C#\Mis proyectos\1\obj\Debug\net8.0\1.genruntimeconfig.cache
 D:\Todo sobre la programación\C#\Mis proyectos\1\obj\Debug\net8.0\ref\1.dll
+D:\Todo sobre la programación\C#\Mis proyectos\1\obj\Debug\net8.0\1.sourcelink.json
